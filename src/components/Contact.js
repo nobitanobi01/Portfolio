@@ -14,12 +14,12 @@ const Contact = () => {
         setSubmitStatus(true);
 
         emailjs
-            .sendForm(
-                "service_jrvob9d",
-                "template_i8pwqm3",
+            .sendForm( //EmailJs serviceID, templateID, formRef, publicKey 
+                "Enter your service id",
+                "Enter your template id",
                 form.current,
-                "brTOInCWBJlK4szm_" 
-            )
+                "Enter you public Id" 
+            ) 
             .then(
                 (result) => {
                     e.target.reset();
