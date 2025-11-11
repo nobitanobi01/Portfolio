@@ -15,10 +15,10 @@ const Contact = () => {
 
         emailjs
             .sendForm( //EmailJs serviceID, templateID, formRef, publicKey 
-                "service_jrvob9d",
-                "template_i8pwqm3",
+                "Enter your service id",
+                "Enter your template id",
                 form.current,
-                "brTOInCWBJlK4szm_" 
+                "Enter you public Id" 
             ) 
             .then(
                 (result) => {
