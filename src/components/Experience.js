@@ -9,7 +9,7 @@ const experiences = [
         description: "Contributed to modernizing a traditional web platform into a responsive, single-page React application. Implemented Spring Boot RESTful APIs with MySQL integration, reducing load times, improving data flow, and significantly enhancing user experience and application efficiency.",
     },
     {
-        company: "NanoTech Softwatre",
+        company: "NanoTech Software",
         role: "Web Developer Intern",
         duration: "June 2023 – Dec 2023",
         description: "Built a fully responsive web app with HTML, CSS, JavaScript, and Bootstrap, featuring dynamic UI, interactive forms, and client-side validation for enhanced user experience.",
