@@ -70,7 +70,7 @@ const Home = () => {
                     <a href="#contact" className="resume-btn hire">Hire Me</a>
                     <a
                         href={process.env.PUBLIC_URL + "/resume.pdf"}
-                        download="Ajay_Kumbhar.pdf"
+                        download="Kumbhar_Ajay.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="resume-btn"
