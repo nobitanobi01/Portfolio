@@ -3,7 +3,7 @@ import "../style/Experience.css";
 
 const experiences = [
     {
-        company: "PeralStone Technologly",
+        company: "PeralStone Technology",
         role: "Software Developer",
         duration: "Jan 2024 – Present",
         description: "Contributed to modernizing a traditional web platform into a responsive, single-page React application. Implemented Spring Boot RESTful APIs with MySQL integration, reducing load times, improving data flow, and significantly enhancing user experience and application efficiency.",
